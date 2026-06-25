@@ -1,4 +1,0 @@
-numpy>=2.0
-scikit-learn>=1.7
-streamlit>=1.40
-streamlit-option-menu>=0.4
